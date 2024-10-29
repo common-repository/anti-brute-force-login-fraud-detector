@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-04-25 17:28+0900\n"
+"PO-Revision-Date: 2023-04-25 17:33+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin\n"
+"X-Poedit-SearchPathExcluded-1: include\n"
+"X-Poedit-SearchPathExcluded-2: languages\n"
+"X-Poedit-SearchPathExcluded-3: .\n"
+
+#: index.php:172
+msgid "Login has been blocked"
+msgstr "로그인이 차단되었습니다"
+
+#: index.php:173
+msgid ""
+"This site is equipped with the Criminal IP Anti-Brute Force, Login Fraud "
+"Detector plugin"
+msgstr ""
+"이 사이트에는 Criminal IP Anti-Brute Force, Login Fraud Detector 플러그인이 "
+"적용되어 있습니다"
+
+#: index.php:174
+msgid ""
+"This security plugin detects and blocks suspicious login attempts with "
+"malicious IP addresses"
+msgstr ""
+"이 보안 플러그인은 악성 IP 주소로 의심되는 로그인 시도를 탐지하고 차단합니다"
+
+#: index.php:175
+msgid "Please use this site with a normal IP address"
+msgstr "정상적인 IP 주소로 사이트를 이용해주세요"
+
+#: index.php:176
+msgid ""
+"If you are still blocked despite using a normal IP address, please contact"
+msgstr "정상 IP 주소를 사용해도 계속해서 차단될 경우, 문의해 주시기 바랍니다"
+
+#: index.php:298
+msgid "Settings"
+msgstr "설정"
+
+#: index.php:325
+msgid "Issue API Key"
+msgstr "API 키 발급"
+
+#: index.php:325
+msgid "<span style=\"padding:10px\"><a href="
+msgstr ""
+
+#: index.php:335
+msgid "<p style='padding-left:1px; margin:0px;'>Login Limit Options</p>"
+msgstr "<p style='padding-left:1px; margin:0px;'>로그인 제한 옵션</p>"
+
+#: index.php:344
+msgid "Block VPN IP Addresses"
+msgstr "VPN IP 주소 차단"
+
+#: index.php:345
+msgid "Block Tor IP Addresses"
+msgstr "Tor IP 주소 차단"
+
+#: index.php:346
+msgid "Block Proxy IP Addresses"
+msgstr "Proxy IP 주소 차단"
+
+#: index.php:347
+msgid "Block Hosting IP Addresses"
+msgstr "Hosting IP 주소 차단"
+
+#: index.php:356
+msgid "&nbsp;"
+msgstr ""
+
+#: index.php:362
+msgid "minutes after Can be re-logged"
+msgstr "분 후 재로그인 가능"
+
+#: index.php:370
+msgid ""
+"<p style='padding:0 0 0 1px; margin-top:0px;'>Whitelisted IP addresses</p> "
+msgstr ""
+"<p style='padding:0 0 0 1px; margin-top:0px;'>화이트리스트 IP 주소</p> "
+
+#: index.php:410
+msgid "The entered IP address is not valid"
+msgstr "입력된 IP주소는 유효하지 않습니다"
+
+#: index.php:436 index.php:1000
+msgid "Not a valid api key. Please check api key."
+msgstr "유효한 api key가 아닙니다. api key를 확인해 주시기 바랍니다."
+
+#: index.php:458
+msgid ""
+"This is a security plugin that detects and blocks automated login attacks "
+"with IP address monitoring.<br> Issue a free Criminal IP API key and "
+"activate the plugin."
+msgstr ""
+"이 플러그인은 IP 주소 모니터링으로 자동화 로그인 공격을 탐지 및 차단 하는 보"
+"안 플러그인입니다.<br>무료로 Criminal IP API 키를 발급 받고 플러그인을 활성"
+"화 하세요."
+
+#: index.php:463
+msgid ""
+"Thank you for using the Criminal IP Anti-Brute Force, Login Fraud Detector "
+"plugin"
+msgstr ""
+"Criminal IP Anti-Brute Force, Login Fraud Detector 플러그인을 사용해 주셔서 "
+"감사합니다"
+
+#: index.php:464
+msgid ""
+"This plugin detects and blocks malicious IP addresses attempting to login to "
+"the user's Wordpress site."
+msgstr ""
+"이 플러그인은 사용자의 Wordpress 사이트에 로그인을 시도하는 악성 IP 주소를 탐"
+"지하고 차단합니다."
+
+#: index.php:465
+msgid ""
+"Criminal IP is an intelligence search engine platform that collects "
+"malicious information from worldwide IP addresses and domains"
+msgstr ""
+"Criminal IP는 전세계 모든 IP 주소와 도메인의 악성 정보를 수집하는 인텔리전스 "
+"검색엔진 플랫폼입니다"
+
+#: index.php:466
+msgid "Check out what you can do more with Criminal IP"
+msgstr "Criminal IP로 할 수 있는 더 많은 것들을 확인해보세요"
+
+#: index.php:482
+msgid "Upgrade your Criminal IP plan to detect more attacks"
+msgstr "더 많은 공격을 탐지하려면 Criminal IP의 Plan을 업그레이드 하세요"
+
+#: index.php:487
+msgid "Criminal IP API Key"
+msgstr "Criminal IP API 키"
+
+#: index.php:488
+msgid "Create a Criminal IP account, log in"
+msgstr ""
+"키 발급 버튼을 클릭해 Criminal IP 계정을 생성하고 로그인 후 My Page 에서 API "
+"키를 생성해주세요"
+
+#: index.php:489
+msgid "And create an API key in My Page by clicking the Issue API Key button."
+msgstr ""
+"그리고 받은 API 키를 복사하여 아래 입력 칸에 붙여넣으면 플러그인이 활성화됩니"
+"다."
+
+#: index.php:496
+msgid "Prevent Brute-force Attack Option"
+msgstr "무차별 대입 공격 방지 옵션"
+
+#: index.php:497
+msgid ""
+"Hackers attempting brute-force attacks use VPN, Proxy, Tor, Hosting IP, etc. "
+"to prevent tracking."
+msgstr ""
+"무차별 대입 공격을 시도하는 해커는 추적을 피하기 위해 VPN, Proxy, Tor, "
+"Hosting IP 등을 사용합니다."
+
+#: index.php:498
+msgid ""
+"Set restrictive IP address options and login wait time. We recommend you "
+"enable all options to prevent as many attacks as possible."
+msgstr ""
+"로그인을 제한할 IP 주소 옵션과 재로그인 대기시간을 설정하세요. 최대한 공격을 "
+"예방하려면 모든 옵션을 활성화 하는 것을 추천합니다."
+
+#: index.php:506
+msgid "Whitelist"
+msgstr "화이트리스트"
+
+#: index.php:507
+msgid "Whitelisted IP addresses are not subject to Criminal IP login blocking."
+msgstr ""
+"화이트리스트로 등록된 IP 주소는 Criminal IP 로그인 차단이 적용되지 않습니다."
+
+#: index.php:508
+msgid ""
+"We recommend you register only trusted IP addresses such as office IP "
+"addresses."
+msgstr "신뢰할 수 있는 IP 주소 (예: 사무실 IP 주소) 만 등록하는 것이 좋습니다."
+
+#: index.php:648
+msgid "General"
+msgstr "일반"
+
+#: index.php:652
+msgid "Detected IP address"
+msgstr "탐지된 IP 주소"
+
+#: index.php:653
+msgid "Statistics"
+msgstr "통계"
+
+#: index.php:674
+msgid ""
+"This is a list of IP addresses that were detected according to the "
+"restriction options.You can view the country information, detected content, "
+"and date of each IP address."
+msgstr ""
+"설정된 제한 옵션에 따라 탐지된 IP 주소 목록입니다. IP 주소의 국가 정보, 탐지"
+"된 내용, 날짜를 확인할 수 있습니다."
+
+#: index.php:789
+msgid "Login Limit Statistics"
+msgstr "로그인 제한 통계"
+
+#: index.php:790
+msgid ""
+"This is a graph comparing the number of blocked suspicious login attempts "
+"and the total number of login attempts."
+msgstr ""
+"전체 로그인 시도 횟수 대비 로그인 차단된 공격 의심 로그인 횟수 통계입니다."
+
+#: index.php:903
+msgid "Day"
+msgstr "일"
+
+#: index.php:904
+msgid "Week"
+msgstr "주"
+
+#: index.php:905
+msgid "Month"
+msgstr "월"
+
+#: index.php:906
+msgid "Year"
+msgstr "년"
+
+#: index.php:951
+msgid "Criminal IP API Usage Statistics"
+msgstr "Criminal IP API 사용량 통계"
+
+#: index.php:952
+msgid ""
+"This is a graph showing the used number of API credits with the linked "
+"Criminal IP account. Credits are reset on the first day of each month."
+msgstr ""
+"연동된 Criminal IP 계정의 API 크레딧 사용량 통계입니다. 크레딧은 매 월 1일에 "
+"리셋됩니다."
+
+#: index.php:953
+msgid ""
+"You can check Criminal IP Pricing page for credit criteria. To use more "
+"credits, a Plan Upgrade is required"
+msgstr ""
+"계정별 크레딧 제공 기준은 <b>Criminal IP Pricing</b> 페이지에서 확인하세요. "
+"더 많은 크레딧을 사용하려면 <b>플랜 업그레이드</b>가 필요합니다"
+
+#: index.php:953
+msgid "en"
+msgstr "ko"
+
+#: index.php:983
+msgid "left  "
+msgstr "남음 "
+
+#: index.php:983
+msgid "used  "
+msgstr "사용 "
+
+#, fuzzy
+#~| msgid ""
+#~| "<span style=\"padding:10px\"><a href='https://www.criminalip.io/ko/"
+#~| "mypage/information' target='_blank'><input type='button' class='button "
+#~| "button-primary' value=\""
+#~ msgid ""
+#~ "<span style=\"padding:10px\"><a href='https://www.criminalip.io/mypage/"
+#~ "information' target='_blank'><input type='button' class='button button-"
+#~ "primary' value=\""
+#~ msgstr ""
+#~ "<span style=\"padding:10px\"><a href='https://www.criminalip.io/ko/mypage/"
+#~ "information' target='_blank'><input type='button' class='button button-"
+#~ "primary' value=\""
+
+#~ msgid "https://www.criminalip.io/en/pricing"
+#~ msgstr "https://www.criminalip.io/ko/pricing"
+
+#~ msgid "API key is not valid"
+#~ msgstr "입력된 API KEY가 올바르지 않습니다."
+
+#~ msgid ""
+#~ "Check the <a href='https://www.criminalip.io/ko/beta-service' target=\\"
+#~ "\"_blank\\\">Criminal IP Beta Service page</a> for credit criteria. To "
+#~ "use more credits, an upgrade to the Enterprise plan is required."
+#~ msgstr ""
+#~ "계정별 크레딧 제공 기준은 Criminal IP Pricing 페이지에서 확인하세요. 더 많"
+#~ "은 크레딧을 사용하려면 플랜 업그레이드가 필요합니다. (<a href='https://"
+#~ "www.criminalip.io/ko/pricing' target='_blank'>https://www.criminalip.io/"
+#~ "ko/pricing</a>)"
+
+#~ msgid "Free Beta plans are more than enough for most WordPress sites"
+#~ msgstr ""
+#~ "대부분의 워드프레스 사이트에서는 무료 베타 플랜으로도 충분히 사용할 수 있"
+#~ "습니다"
+
+#~ msgid "Can be re-logged in __ minutes"
+#~ msgstr "분 후 재로그인 가능"
+
+#~ msgid "blockString_0"
+#~ msgstr "로그인이 차단되었습니다"
+
+#~ msgid "blockString_1"
+#~ msgstr ""
+#~ "이 사이트에는 Criminal IP Anti-Brute Force, Login Fraud Detector 플러그인"
+#~ "이 적용되어 있습니다."
+
+#~ msgid "blockString_2"
+#~ msgstr ""
+#~ "이 보안 플러그인은 악성 IP 주소로 의심되는 로그인 시도를 탐지하고 차단합니"
+#~ "다."
+
+#~ msgid "blockString_3"
+#~ msgstr "정상적인 IP 주소로 사이트를 이용해주세요."
+
+#~ msgid "blockString_4"
+#~ msgstr ""
+#~ "정상 IP 주소를 사용해도 계속해서 차단될 경우, support@aispera.com으로 문의"
+#~ "하세요."
+
+#~ msgid "https://youtu.be/fjm2uNnWjkM"
+#~ msgstr "https://www.youtube.com/embed/gzfLAAzIVIM"
+
+#~ msgid "mediaLink"
+#~ msgstr "https://www.youtube.com/embed/gzfLAAzIVIM"
+
+#~ msgid "화이트리스트현미"
+#~ msgstr "화이트리스트"

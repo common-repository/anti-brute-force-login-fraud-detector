@@ -1,0 +1,364 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-04-25 17:27+0900\n"
+"PO-Revision-Date: 2023-04-25 17:34+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;_x;_ex;gettext;gettext_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin\n"
+"X-Poedit-SearchPathExcluded-1: include\n"
+"X-Poedit-SearchPathExcluded-2: languages\n"
+"X-Poedit-SearchPathExcluded-3: .\n"
+
+#: index.php:172
+msgid "Login has been blocked"
+msgstr "Login has been blocked"
+
+#: index.php:173
+msgid ""
+"This site is equipped with the Criminal IP Anti-Brute Force, Login Fraud "
+"Detector plugin"
+msgstr ""
+"This site is equipped with the Criminal IP Anti-Brute Force, Login Fraud "
+"Detector plugin"
+
+#: index.php:174
+msgid ""
+"This security plugin detects and blocks suspicious login attempts with "
+"malicious IP addresses"
+msgstr ""
+"This security plugin detects and blocks suspicious login attempts with "
+"malicious IP addresses"
+
+#: index.php:175
+msgid "Please use this site with a normal IP address"
+msgstr "Please use this site with a normal IP address"
+
+#: index.php:176
+msgid ""
+"If you are still blocked despite using a normal IP address, please contact"
+msgstr ""
+"If you are still blocked despite using a normal IP address, please contact"
+
+#: index.php:298
+msgid "Settings"
+msgstr "Settings"
+
+#: index.php:325
+msgid "Issue API Key"
+msgstr "Issue API Key"
+
+#: index.php:325
+msgid "<span style=\"padding:10px\"><a href="
+msgstr ""
+
+#: index.php:335
+msgid "<p style='padding-left:1px; margin:0px;'>Login Limit Options</p>"
+msgstr "<p style='padding-left:1px; margin:0px;'>Login Limit Options</p>"
+
+#: index.php:344
+msgid "Block VPN IP Addresses"
+msgstr "Block VPN IP Addresses"
+
+#: index.php:345
+msgid "Block Tor IP Addresses"
+msgstr "Block Tor IP Addresses"
+
+#: index.php:346
+msgid "Block Proxy IP Addresses"
+msgstr "Block Proxy IP Addresses"
+
+#: index.php:347
+msgid "Block Hosting IP Addresses"
+msgstr "Block Hosting IP Addresses"
+
+#: index.php:356
+msgid "&nbsp;"
+msgstr ""
+
+#: index.php:362
+msgid "minutes after Can be re-logged"
+msgstr "minutes after Can be re-logged"
+
+#: index.php:370
+msgid ""
+"<p style='padding:0 0 0 1px; margin-top:0px;'>Whitelisted IP addresses</p> "
+msgstr ""
+"<p style='padding:0 0 0 1px; margin-top:0px;'>Whitelisted IP addresses</p> "
+
+#: index.php:410
+msgid "The entered IP address is not valid"
+msgstr ""
+
+#: index.php:436 index.php:1000
+msgid "Not a valid api key. Please check api key."
+msgstr "Not a valid api key. Please check api key."
+
+#: index.php:458
+msgid ""
+"This is a security plugin that detects and blocks automated login attacks "
+"with IP address monitoring.<br> Issue a free Criminal IP API key and "
+"activate the plugin."
+msgstr ""
+"This is a security plugin that detects and blocks automated login attacks "
+"with IP address monitoring.<br> Issue a free Criminal IP API key and "
+"activate the plugin."
+
+#: index.php:463
+msgid ""
+"Thank you for using the Criminal IP Anti-Brute Force, Login Fraud Detector "
+"plugin"
+msgstr ""
+"Thank you for using the Criminal IP Anti-Brute Force, Login Fraud Detector "
+"plugin"
+
+#: index.php:464
+msgid ""
+"This plugin detects and blocks malicious IP addresses attempting to login to "
+"the user's Wordpress site."
+msgstr ""
+"This plugin detects and blocks malicious IP addresses attempting to login to "
+"the user's Wordpress site."
+
+#: index.php:465
+msgid ""
+"Criminal IP is an intelligence search engine platform that collects "
+"malicious information from worldwide IP addresses and domains"
+msgstr ""
+"Criminal IP is an intelligence search engine platform that collects "
+"malicious information from worldwide IP addresses and domains"
+
+#: index.php:466
+msgid "Check out what you can do more with Criminal IP"
+msgstr "Check out what you can do more with Criminal IP"
+
+#: index.php:482
+msgid "Upgrade your Criminal IP plan to detect more attacks"
+msgstr "Upgrade your Criminal IP plan to detect more attacks"
+
+#: index.php:487
+msgid "Criminal IP API Key"
+msgstr "Criminal IP API Key"
+
+#: index.php:488
+msgid "Create a Criminal IP account, log in"
+msgstr "Create a Criminal IP account, log in"
+
+#: index.php:489
+msgid "And create an API key in My Page by clicking the Issue API Key button."
+msgstr "And create an API key in My Page by clicking the Issue API Key button."
+
+#: index.php:496
+msgid "Prevent Brute-force Attack Option"
+msgstr "Prevent Brute-force Attack Option"
+
+#: index.php:497
+msgid ""
+"Hackers attempting brute-force attacks use VPN, Proxy, Tor, Hosting IP, etc. "
+"to prevent tracking."
+msgstr ""
+"Hackers attempting brute-force attacks use VPN, Proxy, Tor, Hosting IP, etc. "
+"to prevent tracking."
+
+#: index.php:498
+msgid ""
+"Set restrictive IP address options and login wait time. We recommend you "
+"enable all options to prevent as many attacks as possible."
+msgstr ""
+"Set restrictive IP address options and login wait time. We recommend you "
+"enable all options to prevent as many attacks as possible."
+
+#: index.php:506
+msgid "Whitelist"
+msgstr "Whitelist"
+
+#: index.php:507
+msgid "Whitelisted IP addresses are not subject to Criminal IP login blocking."
+msgstr ""
+"Whitelisted IP addresses are not subject to Criminal IP login blocking."
+
+#: index.php:508
+msgid ""
+"We recommend you register only trusted IP addresses such as office IP "
+"addresses."
+msgstr ""
+"We recommend you register only trusted IP addresses such as office IP "
+"addresses."
+
+#: index.php:648
+msgid "General"
+msgstr "General"
+
+#: index.php:652
+msgid "Detected IP address"
+msgstr "Detected IP address"
+
+#: index.php:653
+msgid "Statistics"
+msgstr "Statistics"
+
+#: index.php:674
+msgid ""
+"This is a list of IP addresses that were detected according to the "
+"restriction options.You can view the country information, detected content, "
+"and date of each IP address."
+msgstr ""
+"This is a list of IP addresses that were detected according to the "
+"restriction options. You can view the country information, detected content, "
+"and date of each IP address."
+
+#: index.php:789
+msgid "Login Limit Statistics"
+msgstr "Login Limit Statistics"
+
+#: index.php:790
+msgid ""
+"This is a graph comparing the number of blocked suspicious login attempts "
+"and the total number of login attempts."
+msgstr ""
+"This is a graph comparing the number of blocked suspicious login attempts "
+"and the total number of login attempts."
+
+#: index.php:903
+msgid "Day"
+msgstr "Day"
+
+#: index.php:904
+msgid "Week"
+msgstr "Week"
+
+#: index.php:905
+msgid "Month"
+msgstr "Month"
+
+#: index.php:906
+msgid "Year"
+msgstr "Year"
+
+#: index.php:951
+msgid "Criminal IP API Usage Statistics"
+msgstr "Criminal IP API Usage Statistics"
+
+#: index.php:952
+msgid ""
+"This is a graph showing the used number of API credits with the linked "
+"Criminal IP account. Credits are reset on the first day of each month."
+msgstr ""
+"This is a graph showing the used number of API credits with the linked "
+"Criminal IP account. Credits are reset on the first day of each month."
+
+#: index.php:953
+msgid ""
+"You can check Criminal IP Pricing page for credit criteria. To use more "
+"credits, a Plan Upgrade is required"
+msgstr ""
+"You can check <b>Criminal IP Pricing</b> page for credit criteria. To use "
+"more credits, a <b>Plan Upgrade</b> is required."
+
+#: index.php:953
+msgid "en"
+msgstr "en"
+
+#: index.php:983
+msgid "left  "
+msgstr "left  "
+
+#: index.php:983
+msgid "used  "
+msgstr "used  "
+
+#, fuzzy
+#~| msgid ""
+#~| "<span style=\"padding:10px\"><a href='https://www.criminalip.io/ko/"
+#~| "mypage/information' target='_blank'><input type='button' class='button "
+#~| "button-primary' value=\""
+#~ msgid ""
+#~ "<span style=\"padding:10px\"><a href='https://www.criminalip.io/mypage/"
+#~ "information' target='_blank'><input type='button' class='button button-"
+#~ "primary' value=\""
+#~ msgstr ""
+#~ "<span style=\"padding:10px\"><a href='https://www.criminalip.io/ko/mypage/"
+#~ "information' target='_blank'><input type='button' class='button button-"
+#~ "primary' value=\""
+
+#~ msgid "API key is not valid"
+#~ msgstr "API key is not valid"
+
+#~ msgid "https://www.criminalip.io/en/pricing"
+#~ msgstr "https://www.criminalip.io/en/pricing"
+
+#~ msgid ""
+#~ "Check the <a href='https://www.criminalip.io/ko/beta-service' target=\\"
+#~ "\"_blank\\\">Criminal IP Beta Service page</a> for credit criteria. To "
+#~ "use more credits, an upgrade to the Enterprise plan is required."
+#~ msgstr ""
+#~ "Check the <a href='https://www.criminalip.io/ko/beta-service' target=\\"
+#~ "\"_blank\\\">Criminal IP Beta Service page</a> for credit criteria. To "
+#~ "use more credits, an upgrade to the Enterprise plan is required."
+
+#~ msgid "Free Beta plans are more than enough for most WordPress sites"
+#~ msgstr "Free Beta plans are more than enough for most WordPress sites"
+
+#~ msgid "blockPage(sample)"
+#~ msgstr "blockPage(sample)"
+
+#~ msgid "Can be re-logged in __ minutes"
+#~ msgstr "Can be re-logged in __ minutes"
+
+#~ msgid "blockString_0"
+#~ msgstr "Login has been blocked"
+
+#~ msgid "blockString_1"
+#~ msgstr ""
+#~ "This site is equipped with the Criminal IP Anti-Brute Force, Login Fraud "
+#~ "Detector plugin"
+
+#~ msgid "blockString_2"
+#~ msgstr ""
+#~ "This security plugin detects and blocks suspicious login attempts with "
+#~ "malicious IP addresses"
+
+#~ msgid "blockString_3"
+#~ msgstr "Please use this site with a normal IP address"
+
+#~ msgid "blockString_4"
+#~ msgstr ""
+#~ "If you are still blocked despite using a normal IP address, please "
+#~ "contact support@aispera.com"
+
+#~ msgid "https://youtu.be/fjm2uNnWjkM"
+#~ msgstr "https://www.youtube.com/embed/fjm2uNnWjkM"
+
+#~ msgid "General Settings"
+#~ msgstr "General Settings"
+
+#~ msgid "Email Notifications"
+#~ msgstr "Email Notifications"
+
+#~ msgid ""
+#~ "Whitelisting is a security feature that provides full access to certain "
+#~ "users. Criminalip_test offers a User Whitelist for trusted usernames that "
+#~ "should never be locked out. The IP Address Whitelist allows you to create "
+#~ "a list of trusted IP addresses (e.g. an office IP) which will never be "
+#~ "blocked."
+#~ msgstr ""
+#~ "Whitelisting is a security feature that provides full access to certain "
+#~ "users. Criminalip_test offers a User Whitelist for trusted usernames that "
+#~ "should never be locked out. The IP Address Whitelist allows you to create "
+#~ "a list of trusted IP addresses (e.g. an office IP) which will never be "
+#~ "blocked."
+
+#~ msgid "Reverse Proxy"
+#~ msgstr "Reverse Proxy"
+
+#~ msgid "화이트리스트현미"
+#~ msgstr "AISPERA_WHITELIST_YAHO"

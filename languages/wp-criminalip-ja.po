@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-04-25 17:28+0900\n"
+"PO-Revision-Date: 2023-04-25 17:34+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin\n"
+"X-Poedit-SearchPathExcluded-1: include\n"
+"X-Poedit-SearchPathExcluded-2: languages\n"
+"X-Poedit-SearchPathExcluded-3: .\n"
+
+#: index.php:172
+msgid "Login has been blocked"
+msgstr "ログインがブロックされました"
+
+#: index.php:173
+msgid ""
+"This site is equipped with the Criminal IP Anti-Brute Force, Login Fraud "
+"Detector plugin"
+msgstr ""
+"このサイトにはCriminal IP Anti-Brute Force、Login Fraud Detectorプラグインが"
+"適用されています"
+
+#: index.php:174
+msgid ""
+"This security plugin detects and blocks suspicious login attempts with "
+"malicious IP addresses"
+msgstr ""
+"このセキュリティプラグインは悪性IPアドレスに疑われるログインの試みを検知して"
+"ブロックします"
+
+#: index.php:175
+msgid "Please use this site with a normal IP address"
+msgstr "正常的なIPアドレスでサイトを利用してください"
+
+#: index.php:176
+msgid ""
+"If you are still blocked despite using a normal IP address, please contact"
+msgstr ""
+"正常的なIPアドレスを使用しても続いてブロックされる際は、までお問い合わせくだ"
+"さい"
+
+#: index.php:298
+msgid "Settings"
+msgstr "設定"
+
+#: index.php:325
+msgid "Issue API Key"
+msgstr "APIキー発行"
+
+#: index.php:325
+msgid "<span style=\"padding:10px\"><a href="
+msgstr ""
+
+#: index.php:335
+msgid "<p style='padding-left:1px; margin:0px;'>Login Limit Options</p>"
+msgstr "<p style='padding-left:1px; margin:0px;'>ログイン制限のオプション</p>"
+
+#: index.php:344
+msgid "Block VPN IP Addresses"
+msgstr "VPN IPアドレスブロック"
+
+#: index.php:345
+msgid "Block Tor IP Addresses"
+msgstr "Tor IPアドレスブロック"
+
+#: index.php:346
+msgid "Block Proxy IP Addresses"
+msgstr "Proxy IPアドレスブロック"
+
+#: index.php:347
+msgid "Block Hosting IP Addresses"
+msgstr "ホスティングIPアドレスブロック"
+
+#: index.php:356
+msgid "&nbsp;"
+msgstr ""
+
+#: index.php:362
+msgid "minutes after Can be re-logged"
+msgstr "分後再ログイン可能"
+
+#: index.php:370
+msgid ""
+"<p style='padding:0 0 0 1px; margin-top:0px;'>Whitelisted IP addresses</p> "
+msgstr ""
+"<p style='padding:0 0 0 1px; margin-top:0px;'>ホワイトリストのIPアドレス</p> "
+
+#: index.php:410
+msgid "The entered IP address is not valid"
+msgstr "入力されたIPアドレスが無効です"
+
+#: index.php:436 index.php:1000
+msgid "Not a valid api key. Please check api key."
+msgstr "有効な api keyではありません。 api keyをご確認ください。"
+
+#: index.php:458
+msgid ""
+"This is a security plugin that detects and blocks automated login attacks "
+"with IP address monitoring.<br> Issue a free Criminal IP API key and "
+"activate the plugin."
+msgstr ""
+"このプラグインはIPアドレスモニタリングで自動化ログイン攻撃を検知およびブロッ"
+"クするセキュリティプラグインです。無料でCriminal IP APIキーを発行し、<br>プラ"
+"グインを有効化してください。"
+
+#: index.php:463
+msgid ""
+"Thank you for using the Criminal IP Anti-Brute Force, Login Fraud Detector "
+"plugin"
+msgstr ""
+"Criminal IP Anti-Brute Force、Login Fraud Detectorプラグインをご利用いただ"
+"き、誠にありがとうございます"
+
+#: index.php:464
+msgid ""
+"This plugin detects and blocks malicious IP addresses attempting to login to "
+"the user's Wordpress site."
+msgstr ""
+"このプラグインはユーザーのWordPressサイトにログインを試みる悪性IPアドレスを検"
+"知・ブロックします。"
+
+#: index.php:465
+msgid ""
+"Criminal IP is an intelligence search engine platform that collects "
+"malicious information from worldwide IP addresses and domains"
+msgstr ""
+"Criminal IPは世界中の全てのIPアドレスとドメインの悪性情報を収集するインテリ"
+"ジェンス検索エンジンプラットフォームです"
+
+#: index.php:466
+msgid "Check out what you can do more with Criminal IP"
+msgstr "Criminal IPで可能なことをもっとご確認ください"
+
+#: index.php:482
+msgid "Upgrade your Criminal IP plan to detect more attacks"
+msgstr ""
+"より多くの攻撃を検知するためにはCriminal IPのプランをアップグレードしてくださ"
+"い"
+
+#: index.php:487
+msgid "Criminal IP API Key"
+msgstr "Criminal IP APIキー"
+
+#: index.php:488
+msgid "Create a Criminal IP account, log in"
+msgstr "APIキー発行ボタンをクリックしてCriminal IPのアカウントを生成し"
+
+#: index.php:489
+msgid "And create an API key in My Page by clicking the Issue API Key button."
+msgstr "ログインした後、マイ情報でAPIキーを生成してください。"
+
+#: index.php:496
+msgid "Prevent Brute-force Attack Option"
+msgstr "総当たり攻撃の防止オプション"
+
+#: index.php:497
+msgid ""
+"Hackers attempting brute-force attacks use VPN, Proxy, Tor, Hosting IP, etc. "
+"to prevent tracking."
+msgstr ""
+"総当たり攻撃を試みるハッカーは追跡を避けるためにVPN、Proxy、Tor、Hosting IPな"
+"どを使用します。ログインを制限するIPアドレスのオプションと再ログインの待機時"
+"間を設定してください。"
+
+#: index.php:498
+msgid ""
+"Set restrictive IP address options and login wait time. We recommend you "
+"enable all options to prevent as many attacks as possible."
+msgstr ""
+"できるだけ攻撃を予防するためには全てのオプションを有効化することをおすすめし"
+"ます。"
+
+#: index.php:506
+msgid "Whitelist"
+msgstr "ホワイトリスト"
+
+#: index.php:507
+msgid "Whitelisted IP addresses are not subject to Criminal IP login blocking."
+msgstr ""
+"ホワイトリストに登録されたIPアドレスはCriminal IPログインブロックが適用されま"
+"せん。"
+
+#: index.php:508
+msgid ""
+"We recommend you register only trusted IP addresses such as office IP "
+"addresses."
+msgstr "信頼できるIPアドレス（例：事務所のIPアドレス）のみ登録をお勧めします。"
+
+#: index.php:648
+msgid "General"
+msgstr "一般"
+
+#: index.php:652
+msgid "Detected IP address"
+msgstr "検知されたIPアドレス"
+
+#: index.php:653
+msgid "Statistics"
+msgstr "統計"
+
+#: index.php:674
+msgid ""
+"This is a list of IP addresses that were detected according to the "
+"restriction options.You can view the country information, detected content, "
+"and date of each IP address."
+msgstr ""
+"このプラグインはIPアドレスモニタリングで自動化ログイン攻撃を検知およびブロッ"
+"クするセキュリティプラグインです. 無料でCriminal IP APIキーを発行し、プラグイ"
+"ンを有効化してください."
+
+#: index.php:789
+msgid "Login Limit Statistics"
+msgstr "ログイン制限の統計"
+
+#: index.php:790
+msgid ""
+"This is a graph comparing the number of blocked suspicious login attempts "
+"and the total number of login attempts."
+msgstr ""
+"連動されたCriminal IPアカウントのAPIクレジット使用量の統計です。クレジットは"
+"毎月1日に更新されます。"
+
+#: index.php:903
+msgid "Day"
+msgstr "日"
+
+#: index.php:904
+msgid "Week"
+msgstr "週"
+
+#: index.php:905
+msgid "Month"
+msgstr "月"
+
+#: index.php:906
+msgid "Year"
+msgstr "年"
+
+#: index.php:951
+msgid "Criminal IP API Usage Statistics"
+msgstr "Criminal IP APIの使用量統計"
+
+#: index.php:952
+msgid ""
+"This is a graph showing the used number of API credits with the linked "
+"Criminal IP account. Credits are reset on the first day of each month."
+msgstr ""
+"連動されたCriminal IPアカウントのAPIクレジット使用量の統計です。クレジットは"
+"毎月1日に更新されます。"
+
+#: index.php:953
+msgid ""
+"You can check Criminal IP Pricing page for credit criteria. To use more "
+"credits, a Plan Upgrade is required"
+msgstr ""
+"\"アカウントごとのクレジットの提供基準は <b>Criminal IP料金プラン</b>ページで"
+"ご確認ください。より多くのクレジットを使用するためには<b>プランをアップグレー"
+"ド</b>する必要があります。"
+
+#: index.php:953
+msgid "en"
+msgstr "ja"
+
+#: index.php:983
+msgid "left  "
+msgstr ""
+
+#: index.php:983
+msgid "used  "
+msgstr ""
+
+#~ msgid "https://www.criminalip.io/en/pricing"
+#~ msgstr "https://www.criminalip.io/ja/pricing"
+
+#~ msgid "This is not a valid IP address."
+#~ msgstr "有効なIPアドレスではありません"
+
+#~ msgid "API key is not valid"
+#~ msgstr "APIキーが無効です。"
+
+#~ msgid ""
+#~ "Check the <a href='https://www.criminalip.io/ko/beta-service' target=\\"
+#~ "\"_blank\\\">Criminal IP Beta Service page</a> for credit criteria. To "
+#~ "use more credits, an upgrade to the Enterprise plan is required."
+#~ msgstr ""
+#~ "\"アカウントごとのクレジットの提供基準はCriminal IP料金プランページでご確"
+#~ "認ください。より多くのクレジットを使用するためにはプランをアップグレードす"
+#~ "る必要があります。(<a href='https://www.criminalip.io/ja/pricing' "
+#~ "target='_blank'>https://www.criminalip.io/ja/pricing</a>)"
+
+#~ msgid "Free Beta plans are more than enough for most WordPress sites"
+#~ msgstr ""
+#~ "ほとんどのWordPressサイトでは無料ベータ版プランでも十分に利用いただけます"
+
+#~ msgid "Can be re-logged in __ minutes"
+#~ msgstr "__分後再ログイン可能"
+
+#~ msgid "blockString_0"
+#~ msgstr "ログインがブロックされました。"
+
+#~ msgid "blockString_1"
+#~ msgstr ""
+#~ "このサイトにはCriminal IP Anti-Brute Force、Login Fraud Detectorプラグイン"
+#~ "が適用されています。"
+
+#~ msgid "blockString_2"
+#~ msgstr ""
+#~ "このセキュリティプラグインは悪性IPアドレスに疑われるログインの試みを検知し"
+#~ "てブロックします。"
+
+#~ msgid "blockString_3"
+#~ msgstr "正常的なIPアドレスでサイトを利用してください。"
+
+#~ msgid "blockString_4"
+#~ msgstr ""
+#~ "正常的なIPアドレスを使用しても続いてブロックされる際は、support@aispera."
+#~ "comまでお問い合わせください。"
+
+#~ msgid "https://youtu.be/fjm2uNnWjkM"
+#~ msgstr "https://www.youtube.com/embed/433wR_edNek"
